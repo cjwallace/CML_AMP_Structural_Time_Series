@@ -95,7 +95,7 @@ There are three ways to launch this project on CML:
 
 1. **From Prototype Catalog** - Navigate to the Prototype Catalog on a CML workspace, select the "Structural Time Series" tile, click "Launch as Project", click "Configure Project"
 2. **As ML Prototype** - In a CML workspace, click "New Project", add a Project Name, select "ML Prototype" as the Initial Setup option, copy in the [repo URL](https://github.com/cloudera/CML_AMP_Structural_Time_Series.git), click "Create Project", click "Configure Project"
-3. **Manual Setup** - In a CML workspace, click "New Project", add a Project Name, select "Git" as the Initial Setup option, copy in the [repo URL](https://github.com/cloudera/CML_AMP_Structural_Time_Series.git), click "Create Project". Launch a Python3 Workbench Session with at least 4GB of memory and 2vCPUs. Then follow the instructions below, in order.
+3. **Manual Setup** - In a CML workspace, click "New Project", add a Project Name, select "Git" as the Initial Setup option, copy in the [repo URL](https://github.com/cloudera/CML_AMP_Structural_Time_Series.git), click "Create Project". Launch a Python3 Workbench Session with at least 4GB of memory and 2vCPUs, preferably 4vCPUs (with only 2vCPUs, dependencies will install considerably slower than with 4vCPUs). Then follow the instructions below, in order.
 
 ### Installation
 
